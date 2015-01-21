@@ -1,5 +1,6 @@
 simple-headers
 ==============
+[![Build Status](https://travis-ci.org/darkowlzz/simple-headers.svg?branch=master)](https://travis-ci.org/darkowlzz/simple-headers)
 
 Parse and serialize http headers.
 
