@@ -1,0 +1,30 @@
+{
+  "name": "simple-headers",
+  "version": "0.0.1",
+  "description": "Parse request headers to JSON or stringify them.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/darkowlzz/simple-headers.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sunny <indiasuny000@gmail.com> (darkowlzz)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.6.1"
+  },
+  "dependencies": {
+    "capitalize": "^0.5.0",
+    "parse-headers": "^2.0.0",
+    "statuses": "^1.2.0"
+  },
+  "keywords": [
+    "request",
+    "headers",
+    "parse",
+    "serialize"
+  ]
+}
